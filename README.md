@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Sakhil Sharma</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-- 🔭 I’m currently working on [Portfolio Website](https://sakhilsharma.github.io/portfolio./)
+- 🔭 I’m currently working on [Portfolio Website](https://sakhilsharma.github.io/Portfolio/)
 
 - 🌱 I’m currently learning **SQL , ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://sakhilsharma.github.io](https://sakhilsharma.github.io)
+- 👨‍💻 All of my projects are available at https://sakhilsharma.github.io/Portfolio/
 
 - 💬  Ask me about **node,mongoDB,react**
 
