@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Sakhil Sharma</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate full stack developer from India.</h3>
 
-- 🔭 I’m currently working on [Portfolio Website](https://sakhilsharma.github.io/Portfolio/)
+- 🔭 I’m currently working on [iNotebook Website](https://github.com/sakhilsharma/iNotebook-BACKEND)
 
 - 🌱 I’m currently learning **SQL , ReactJS,TailwindCSS**
 
