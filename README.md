@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **SQL , ReactJS,TailwindCSS**
 
-- 👨‍💻 All of my projects are available at https://sakhilsharma.github.io/Portfolio/
+- 👨‍💻 All of my projects are available at https://sakhil-sharma.netlify.app/
 
 - 💬  Ask me about **node,mongoDB,react**
 
