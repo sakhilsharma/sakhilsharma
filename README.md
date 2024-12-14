@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Sakhil Sharma</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
-- 🔭 I’m currently working on [iNotebook Website](https://github.com/sakhilsharma/iNotebook-BACKEND)
+- 🔭 I’m currently working on ReactJS
 
 - 🌱 I’m currently learning **SQL , ReactJS,TailwindCSS**
 
