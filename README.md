@@ -59,8 +59,7 @@ I am a **Full-Stack Developer** and **Electronics and Communication Engineering*
 * **Competitive Programming**: Active participant on **LeetCode** and **Codeforces**.
 
 ### 📊 GitHub Stats
-![Sakhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakhil-sharma-developer&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhil-sharma-developer&layout=compact&theme=radical)
+![Sakhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakhilsharma&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhilsharma&layout=compact&theme=radical)
 
----
-*“Crafting innovative web ideas, cricket, dancing.”*[cite: 1]
+
