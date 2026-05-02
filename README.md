@@ -57,9 +57,12 @@ I am a **Full-Stack Developer** and **Electronics and Communication Engineering*
 * **Smart India Hackathon 2024**: Developed a ship navigation system featuring real-time data processing in 36 hours.
 * **Electrothon 7.0 Participant**: Launched a full-stack job bidding platform, contributing 1000+ lines of production-grade code.
 * **Competitive Programming**: Active participant on **LeetCode** and **Codeforces**.
+* 
+### 📊 My GitHub Metrics
 
-### 📊 GitHub Stats
-![Sakhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakhilsharma&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhilsharma&layout=compact&theme=radical)
+![Sakhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakhilsharma&show_icons=true&theme=radical&rank_icon=github)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhilsharma&layout=compact&theme=radical&hide_border=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sakhilsharma&theme=radical)
 
