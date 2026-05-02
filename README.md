@@ -1,6 +1,6 @@
 # Hi there, I'm Sakhil Sharma 👋
 
-I am a **Full-Stack Developer** and **Electronics and Communication Engineering** student at **NIT Hamirpur** (Class of 2028)[cite: 1]. I enjoy bridging the gap between hardware and software, from **Antenna Physics** to **Cloud-based Web Apps**[cite: 1].
+I am a **Full-Stack Developer** and **Electronics and Communication Engineering** student at **NIT Hamirpur** (Class of 2028). I specialize in building scalable web applications, real-time communication platforms, and efficient backend architectures[cite: 1].
 
 ### 🔗 Connect with Me
 <p align="left">
@@ -41,24 +41,22 @@ I am a **Full-Stack Developer** and **Electronics and Communication Engineering*
 
 ### 🚀 Featured Projects
 
-*   **Apna Video Call** 📞
-    *   Developed a full-stack P2P video calling platform using **WebRTC** and **Socket.IO**[cite: 1].
-    *   Implemented low-latency media streaming and responsive UI optimized for mobile[cite: 1].
-*   **Gig-Connect** 💼
-    *   Engineered a real-time freelance bidding platform at **Electrothon 7.0**[cite: 1].
-    *   Integrated **Gemini API** for AI recommendations, improving search accuracy by 40%[cite: 1].
-*   **Warehouse Intelligence** 🏗️
-    *   Currently building a hybrid hardware/software system using **Raspberry Pi** and **MongoDB**[cite: 1].
-*   **Portfolio Website** 🌐
-    *   Designed and hosted a high-performance portfolio on **Netlify** to showcase 5+ projects[cite: 1].
+* **Apna Video Call** 📞
+    * Developed a full-stack P2P video calling platform using **WebRTC** and **Socket.IO**[https://video-call-frontend-w9cp.onrender.com/].
+    * Implemented low-latency media streaming and a responsive UI optimized for desktop and mobile.
+* **Gig-Connect** 💼
+    * Engineered a real-time freelance bidding platform at **Electrothon 7.0**.
+    * Integrated **Gemini API** for AI-based recommendations, boosting search accuracy by 40%.
+* **Portfolio Website** 🌐
+    * Designed and hosted a high-performance personal portfolio on **Netlify** to showcase 5+ projects[https://sakhil-sharma.netlify.app/].
 
 ---
 
 ### 🏆 Achievements & Education
-*   **NIT Hamirpur**: Integrated M.Tech B.Tech in Electronics and Communication (CGPA: 8.25/10)[cite: 1].
-*   **Smart India Hackathon 2024**: Developed a ship navigation system in 36 hours[cite: 1].
-*   **Electrothon 7.0**: Contributed 1000+ lines of production-grade code to a real-time bidding platform[cite: 1].
-*   **Competitive Programming**: Active participant on **LeetCode** and **Codeforces**[cite: 1].
+* **National Institute of Technology, Hamirpur**: Integrated M.Tech B.Tech in Electronics and Communication (CGPA: 8.25/10).
+* **Smart India Hackathon 2024**: Developed a ship navigation system featuring real-time data processing in 36 hours.
+* **Electrothon 7.0 Participant**: Launched a full-stack job bidding platform, contributing 1000+ lines of production-grade code.
+* **Competitive Programming**: Active participant on **LeetCode** and **Codeforces**.
 
 ### 📊 GitHub Stats
 ![Sakhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakhil-sharma-developer&show_icons=true&theme=radical)
