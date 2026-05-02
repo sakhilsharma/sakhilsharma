@@ -1,29 +1,68 @@
+# Hi there, I'm Sakhil Sharma 👋
 
-<h1 align="center">Hi 👋, I'm Sakhil Sharma</h1>
-<h3 align="center">A passionate full stack developer from India.</h3>
+I am a **Full-Stack Developer** and **Electronics and Communication Engineering** student at **NIT Hamirpur** (Class of 2028)[cite: 1]. I enjoy bridging the gap between hardware and software, from **Antenna Physics** to **Cloud-based Web Apps**[cite: 1].
 
-- 🔭 I’m currently working on ReactJS
-
-- 🌱 I’m currently learning **SQL , ReactJS,TailwindCSS**
-
-- 👨‍💻 All of my projects are available at https://sakhil-sharma.netlify.app/
-
-- 💬  Ask me about **node,mongoDB,react**
-
-- 📫 How to reach me **sakhilsharma123@gmial.com**
-
-- ⚡ Fun fact **I am enthusiastic toward learning and applying technical skills**
-
-<h3 align="left">Connect with me:</h3>
+### 🔗 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/sakhil sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakhil sharma" height="30" width="40" /></a>
-<a href="https://instagram.com/sakhil_sharma04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakhil_sharma04" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sakhil-sharma-developer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/sakhilsharma123/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode" /></a>
+<a href="mailto:sakhilsharma123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
+### 🛠️ Technical Stack & Tools
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sakhilsharma&show_icons=true&locale=en&layout=compact" alt="sakhilsharma" /></p>
+**Programming & Core**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Data Structures](https://img.shields.io/badge/DSA-Data%20Structures-blue?style=for-the-badge&logo=gitbook&logoColor=white)
+
+**Frontend Development**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Database**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&logoColor=white)
+
+**DevOps & Design**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+*   **Apna Video Call** 📞
+    *   Developed a full-stack P2P video calling platform using **WebRTC** and **Socket.IO**[cite: 1].
+    *   Implemented low-latency media streaming and responsive UI optimized for mobile[cite: 1].
+*   **Gig-Connect** 💼
+    *   Engineered a real-time freelance bidding platform at **Electrothon 7.0**[cite: 1].
+    *   Integrated **Gemini API** for AI recommendations, improving search accuracy by 40%[cite: 1].
+*   **Warehouse Intelligence** 🏗️
+    *   Currently building a hybrid hardware/software system using **Raspberry Pi** and **MongoDB**[cite: 1].
+*   **Portfolio Website** 🌐
+    *   Designed and hosted a high-performance portfolio on **Netlify** to showcase 5+ projects[cite: 1].
+
+---
+
+### 🏆 Achievements & Education
+*   **NIT Hamirpur**: Integrated M.Tech B.Tech in Electronics and Communication (CGPA: 8.25/10)[cite: 1].
+*   **Smart India Hackathon 2024**: Developed a ship navigation system in 36 hours[cite: 1].
+*   **Electrothon 7.0**: Contributed 1000+ lines of production-grade code to a real-time bidding platform[cite: 1].
+*   **Competitive Programming**: Active participant on **LeetCode** and **Codeforces**[cite: 1].
+
+### 📊 GitHub Stats
+![Sakhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=sakhil-sharma-developer&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakhil-sharma-developer&layout=compact&theme=radical)
+
+---
+*“Crafting innovative web ideas, cricket, dancing.”*[cite: 1]
