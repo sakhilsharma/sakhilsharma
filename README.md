@@ -1,6 +1,6 @@
 # Hi there, I'm Sakhil Sharma 👋
 
-I am a **Full-Stack Developer** and **Electronics and Communication Engineering** student at **NIT Hamirpur** (Class of 2028). I specialize in building scalable web applications, real-time communication platforms, and efficient backend architectures[cite: 1].
+I am a **Full-Stack Developer** and **Electronics and Communication Engineering** student at **NIT Hamirpur** (Class of 2028). I specialize in building scalable web applications, real-time communication platforms, and efficient backend architectures.
 
 ### 🔗 Connect with Me
 <p align="left">
